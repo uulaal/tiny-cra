@@ -1,0 +1,13 @@
+{
+  "bin": "index.js",
+  "name": "tiny-cra",
+  "author": "uulaal",
+  "description": "create-react-app but without needless files",
+  "keywords": [ "create-react-app", "cra", "clean" ],
+  "version": "1.0.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uulaal/tiny-cra.git"
+  }
+}
