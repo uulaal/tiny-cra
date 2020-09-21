@@ -4,7 +4,7 @@
   "author": "uulaal",
   "description": "create-react-app but without needless files",
   "keywords": [ "create-react-app", "cra", "clean" ],
-  "version": "1.0.4",
+  "version": "1.0.6",
   "license": "MIT",
   "repository": {
     "type": "git",
